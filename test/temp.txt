@@ -1,0 +1,3 @@
+case template
+
+create variables - type, range, domain

@@ -1,0 +1,19 @@
+lis
+lis w/ solns
+lcs
+lcs w/ solns
+lps
+lps w/ solutions
+bfs
+dfs
+overlapping intervals
+dijkstras
+bellman-ford
+gcd
+sieve
+factor count
+prime factor list
+disjoint set operations
+mulinvmod
+kadane's alg
+matrix chain multiplication
