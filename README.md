@@ -2,7 +2,7 @@
 Repository of my codes on Codeforces, Codechef, LeetCode, Hackerrank and AtCoder
 
 ## Codechef
-  ### Fully Solved:
+  #### Fully Solved:
     FIBEASY
     CHEFINSQ
     GDSUB
@@ -22,6 +22,7 @@ Repository of my codes on Codeforces, Codechef, LeetCode, Hackerrank and AtCoder
     EVEDG
     QCOUNT
     SPDG
+    CIRMERGE
     DIET
     SIGNTURE
     BIGRES
@@ -31,13 +32,12 @@ Repository of my codes on Codeforces, Codechef, LeetCode, Hackerrank and AtCoder
     SAVJEW
     LAPD
     WEIRDO
-  ### Partially Solved:
+  #### Partially Solved:
     SIMGAM
     LSTBTF
     PHCUL
     GAOT
     PGRID
-    CIRMERGE
 
 ## Codeforces
     (A) Two Rival Students
